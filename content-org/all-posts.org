@@ -1,0 +1,35 @@
+#+hugo_base_dir: ../
+
+* DONE links :intro:links:@intro:@links:
+:PROPERTIES:
+:EXPORT_FILE_NAME: links
+:END:
+[[https://bsky.app/profile/dogboner.xyz][bluesky]]
+
+[[https://onlyfans.com/chuthepup][onlyfans]]
+
+[[https://twitter.com/puppycum][twitter #1]]
+
+[[https://twitter.com/gravybreak][twitter #2]]
+
+[[https://github.com/chumutt][github]]
+
+[[https://t.me/subwooferchu][telegram]]
+
+[[https://discordapp.com/users/124559844492574720][discord]]
+
+[[https://thehairthatgoesnowhere.bandcamp.com][my music (on bandcamp.com)]]
+
+[[https://open.spotify.com/artist/6zgStN1zoEnwWuDKDQVgwf?si=9OBz6eDhStmP2IyleXO1Kg][my music (on spotify)]]
+
+[[https://open.spotify.com/user/22tteeqxg7bnvrlaidvmgwrji][my (listening, non-artist) spotify]]
+
+[[https://www.furaffinity.net/user/gabberpuppy/][furaffinity]]
+
+[[https://www.youtube.com/user/LaserDinosaurs][old youtube #1 (strips mckinsey, formerly laserdinosaurs)]]
+
+[[https://www.youtube.com/@kingcastration][old youtube #2 (joyce carnival, formerly king castration)]]
+
+[[https://exercism.org/profiles/ChuMutt][exercism programming exercises]]
+
+[[mailto:chufilthymutt+inquiries@gmail.com][email me]]
