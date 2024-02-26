@@ -1,3 +1,12 @@
 theme = "chugo"
-[markup.goldmark.renderer]
-  unsafe = true
+
+[params]
+  taglist = true
+  nextprev = true
+  datesinlist = true
+  authorsinlist = true
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true

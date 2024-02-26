@@ -1,2 +1,5 @@
-/themes/
+# The "chugo" theme is kept in a separate repository, so ignore it here.
+/themes/chugo
+
+# This hugo build file is irrelevant to the source code, so ignore it here.
 .hugo_build.lock
