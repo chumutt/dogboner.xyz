@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'links.blg'
+[79] biber:340> INFO - === Tue Mar  5, 2024, 20:13:23
+[96] Biber.pm:419> INFO - Reading 'links.bcf'
+[161] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[178] bbl.pm:660> INFO - Writing 'links.bbl' with encoding 'UTF-8'
+[178] bbl.pm:763> INFO - Output to links.bbl
+[179] Biber.pm:131> WARN - The file 'links.bcf' does not contain any citations!
+[179] Biber.pm:133> INFO - WARNINGS: 1

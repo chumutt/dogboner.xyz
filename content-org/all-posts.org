@@ -1,8 +1,9 @@
 #+hugo_base_dir: ../
 
-* DONE links :intro:links:@intro:@links:
+* DONE My Links :intro:links:@Links:
 :PROPERTIES:
 :EXPORT_FILE_NAME: links
+:EXPORT_DATE: 2024-01-29
 :END:
 [[https://bsky.app/profile/dogboner.xyz][bluesky]]
 

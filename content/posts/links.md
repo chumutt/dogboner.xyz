@@ -1,8 +1,9 @@
 +++
-title = "links"
+title = "My Links"
 author = ["chu the pup"]
+date = 2024-01-29
 tags = ["intro", "links"]
-categories = ["intro", "links"]
+categories = ["Links"]
 draft = false
 +++
 
