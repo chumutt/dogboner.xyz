@@ -2,4 +2,4 @@
 /themes/chugo
 
 # This hugo build file is irrelevant to the source code, so ignore it here.
-.hugo_build.lock
+./.hugo_build.lock
