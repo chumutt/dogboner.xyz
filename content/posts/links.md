@@ -7,32 +7,32 @@ categories = ["Links"]
 draft = false
 +++
 
-[bluesky](https://bsky.app/profile/dogboner.xyz)
+[Email Me](mailto:chufilthymutt+inquiries@gmail.com)
 
-[onlyfans](https://onlyfans.com/chuthepup)
+[My Music (bandcamp.com)](https://thehairthatgoesnowhere.bandcamp.com)
 
-[twitter #1](https://twitter.com/puppycum)
+[My Music (Spotify)](https://open.spotify.com/artist/6zgStN1zoEnwWuDKDQVgwf?si=9OBz6eDhStmP2IyleXO1Kg)
 
-[twitter #2](https://twitter.com/gravybreak)
+[My (listening, non-artist) Spotify](https://open.spotify.com/user/22tteeqxg7bnvrlaidvmgwrji)
 
-[github](https://github.com/chumutt)
+[Bluesky](https://bsky.app/profile/dogboner.xyz)
 
-[telegram](https://t.me/subwooferchu)
+[OnlyFans](https://onlyfans.com/chuthepup)
 
-[discord](https://discordapp.com/users/124559844492574720)
+[Twitter #1](https://twitter.com/puppycum)
 
-[my music (on bandcamp.com)](https://thehairthatgoesnowhere.bandcamp.com)
+[Twitter #2](https://twitter.com/gravybreak)
 
-[my music (on spotify)](https://open.spotify.com/artist/6zgStN1zoEnwWuDKDQVgwf?si=9OBz6eDhStmP2IyleXO1Kg)
+[GitHub](https://github.com/chumutt)
 
-[my (listening, non-artist) spotify](https://open.spotify.com/user/22tteeqxg7bnvrlaidvmgwrji)
+[Telegram](https://t.me/subwooferchu)
 
-[furaffinity](https://www.furaffinity.net/user/gabberpuppy/)
+[Discord](https://discordapp.com/users/124559844492574720)
 
-[old youtube #1 (strips mckinsey, formerly laserdinosaurs)](https://www.youtube.com/user/LaserDinosaurs)
+[FurAffinity](https://www.furaffinity.net/user/gabberpuppy/)
 
-[old youtube #2 (joyce carnival, formerly king castration)](https://www.youtube.com/@kingcastration)
+[Old YouTube #1 (Strips McKinsey, formerly LaserDinosaurs)](https://www.youtube.com/user/LaserDinosaurs)
 
-[exercism programming exercises](https://exercism.org/profiles/ChuMutt)
+[Old YouTube #2 (Joyce Carnival, formerly King Castration)](https://www.youtube.com/@kingcastration)
 
-[email me](mailto:chufilthymutt+inquiries@gmail.com)
+[Exercism Programming Exercises](https://exercism.org/profiles/ChuMutt)

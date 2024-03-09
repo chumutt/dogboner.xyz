@@ -17,7 +17,7 @@ a {color: #ffe620;}
 a:hover {color: #c5d5d5;}
 
 a.articlelist { color: #485978; font-size: 1.25em; font-family:
-monospace; text-align:center;}
+monospace; }
 a.articlelist:hover { color: #c5d5d5; }
 
 a.sectionlink { color:

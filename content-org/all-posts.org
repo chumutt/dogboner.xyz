@@ -1,36 +1,107 @@
 #+hugo_base_dir: ../
 
+* DONE Software I Use :software:@Software:
+:PROPERTIES:
+:EXPORT_FILE_NAME: software-i-use
+:EXPORT_DATE: 2024-03-08
+:END:
+
+** Audio
+
+*** Session management
+
+**** RaySession
+
+*** Recording/Production/Mixing/Mastering
+
+**** [[https://ardour.org/][Ardour]]
+
+** Text Editors
+
+*** [[https://www.gnu.org/software/emacs/][GNU Emacs]], specifically [[https://github.com/doomemacs/doomemacs/][the DOOM Emacs framework by Henrik Lissner]].
+
+**** GNU Emacs Plugins I Use
+
+These are subject to change often and primarily informed/influenced by the aforementioned DOOM Emacs. Regardless, here are a few highlights off the top of my head:
+
+~achievements~
+
+~citar-org-roam~
+
+~elcord~
+
+~evil-mode~ (with the ~+everywhere~ flag enabled) (Vim key-bindings)
+
+~emms~
+
+~lispy~ and ~lispyville~
+
+~lorem-ipsum~
+
+~org-auto-tangle~
+
+~org-download~
+
+~org-drill~
+
+~org-fragtog~
+
+~org-heatmap~
+
+~org-roam-ui~
+
+~org-roam~ (specifically v2)
+
+~ox-hugo~
+
+~palimpsest-mode~
+
+~paredit~
+
+~random-splash~image~
+
+~sicp~
+
+~simple-httpd~
+
+~sly~
+
+and many, many more. For a more up to date look at what I use, [[https://github.com/chumutt/doom][you can check out my DOOM Emacs configuration here]].
+
+
 * DONE My Links :intro:links:@Links:
 :PROPERTIES:
 :EXPORT_FILE_NAME: links
 :EXPORT_DATE: 2024-01-29
 :END:
-[[https://bsky.app/profile/dogboner.xyz][bluesky]]
 
-[[https://onlyfans.com/chuthepup][onlyfans]]
+[[mailto:chufilthymutt+inquiries@gmail.com][Email Me]]
 
-[[https://twitter.com/puppycum][twitter #1]]
+[[https://thehairthatgoesnowhere.bandcamp.com][My Music (bandcamp.com)]]
 
-[[https://twitter.com/gravybreak][twitter #2]]
+[[https://open.spotify.com/artist/6zgStN1zoEnwWuDKDQVgwf?si=9OBz6eDhStmP2IyleXO1Kg][My Music (Spotify)]]
 
-[[https://github.com/chumutt][github]]
+[[https://open.spotify.com/user/22tteeqxg7bnvrlaidvmgwrji][My (listening, non-artist) Spotify]]
 
-[[https://t.me/subwooferchu][telegram]]
+[[https://bsky.app/profile/dogboner.xyz][Bluesky]]
 
-[[https://discordapp.com/users/124559844492574720][discord]]
+[[https://onlyfans.com/chuthepup][OnlyFans]]
 
-[[https://thehairthatgoesnowhere.bandcamp.com][my music (on bandcamp.com)]]
+[[https://twitter.com/puppycum][Twitter #1]]
 
-[[https://open.spotify.com/artist/6zgStN1zoEnwWuDKDQVgwf?si=9OBz6eDhStmP2IyleXO1Kg][my music (on spotify)]]
+[[https://twitter.com/gravybreak][Twitter #2]]
 
-[[https://open.spotify.com/user/22tteeqxg7bnvrlaidvmgwrji][my (listening, non-artist) spotify]]
+[[https://github.com/chumutt][GitHub]]
 
-[[https://www.furaffinity.net/user/gabberpuppy/][furaffinity]]
+[[https://t.me/subwooferchu][Telegram]]
 
-[[https://www.youtube.com/user/LaserDinosaurs][old youtube #1 (strips mckinsey, formerly laserdinosaurs)]]
+[[https://discordapp.com/users/124559844492574720][Discord]]
 
-[[https://www.youtube.com/@kingcastration][old youtube #2 (joyce carnival, formerly king castration)]]
+[[https://www.furaffinity.net/user/gabberpuppy/][FurAffinity]]
 
-[[https://exercism.org/profiles/ChuMutt][exercism programming exercises]]
+[[https://www.youtube.com/user/LaserDinosaurs][Old YouTube #1 (Strips McKinsey, formerly LaserDinosaurs)]]
 
-[[mailto:chufilthymutt+inquiries@gmail.com][email me]]
+[[https://www.youtube.com/@kingcastration][Old YouTube #2 (Joyce Carnival, formerly King Castration)]]
+
+[[https://exercism.org/profiles/ChuMutt][Exercism Programming Exercises]]
+
