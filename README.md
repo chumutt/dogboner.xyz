@@ -1,1 +1,1 @@
-Uses the [[https://github.com/chumutt/chugo][chugo]] theme.
+Uses the [chugo](https://github.com/chumutt/chugo) theme.
